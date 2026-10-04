@@ -11,7 +11,7 @@ A Machine Learning project that predicts the **IPL first-innings score** using m
 ### 🚀 Run Locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run main.py
 ```
 
 ### 👨‍💻 Author
